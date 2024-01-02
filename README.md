@@ -24,9 +24,9 @@ I am Saadullah khan. I like to learn and explore different things(technical thin
   
   **✔️Instagram :** saadullahkhan_3 _(Also not look like a programmer profile but You can use Direct Message(DM) to cantact me)_
   
-  **✔️Linkedin** : @Saadullahkhan3
+  **✔️Linkedin** : Saadullahkhan3
   
-  **✔️GitHub** : @Saadullahkhan3
+  **✔️GitHub** : Saadullahkhan3
    
   _Again feel free to give me any message and even work !_
 
