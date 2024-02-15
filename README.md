@@ -20,13 +20,11 @@ I am Saadullah khan. I like to learn and explore different things(technical thin
   
   Here you can freely talk with me : 
   
-  **✔️E-mail :** SaadForContact@gamil.com
+  **✔️E-mail :** SaadForContact@gmail.com
   
-  **✔️Instagram :** saadullahkhan_3 _(Also not look like a programmer profile but You can use Direct Message(DM) to cantact me)_
+  **✔️Linkedin** : [Saadullahkhan3](https://www.linkedin.com/in/saadullahkhan3/)
   
-  **✔️Linkedin** : Saadullahkhan3
-  
-  **✔️GitHub** : Saadullahkhan3
+  **✔️GitHub** : [Saadullahkhan3](https://github.com/Saadullahkhan3)
    
   _Again feel free to give me any message and even work !_
 
