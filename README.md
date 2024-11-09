@@ -1,11 +1,11 @@
 <h1 align="center">Greeting 👋, I'm Saadullah Khan</h1>
-<h2 align="center">Python Developer on the Path to Full-Stack | Backend-Focused with Django</h2>
+<h2 align="center">[ Full-Stack Developer ]</h2>
 
-<p align="center">Looking For the oppurtunities related to Python, Backend.</p>
+<p align="center">Looking For the oppurtunities.</p>
 
 🌱 I’m currently learning Django, SQL
 
-💬 Ask me about Python, Django, Jinja, SQL, HTML, CSS, Git
+💬 Ask me about Python, Django, Jinja, SQL, HTML, CSS, JS, Git
 
 📫 Reach me SaadForContact@gmail.com
 
